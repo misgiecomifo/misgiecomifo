@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @misgiecomifo
-- 👀 I’m interested to be full stack ddveloper
-- 🌱 I’m currently learning and sttudey JavaScript packages or librarys like React js and Node js.  
+- 👀 I’m interested to be full stack dveloper
+- 🌱 I’m currently learning and sttudey JavaScript packages or Libraries![Uploading image.png…]()
+ like React js and Node js.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
